@@ -1,0 +1,4 @@
+secret_key_base = "3dc87a90233a4b6286ed9bdea6d35d69724212155eb0737f2f94b24d2abcb94187f0df709c3baa6c557e03b2897cf4436cdd9635732927b3c96a8cef536f80df"
+
+rails_env = 'production'
+
